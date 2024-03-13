@@ -1,0 +1,15 @@
+.hero {
+  /* background-color: bisque; */
+  height: 100%;
+  width: 100%;
+
+  background-image: url("../../assets/living/bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.hero p {
+  color: blue;
+}
+@media screen {
+  
+}
